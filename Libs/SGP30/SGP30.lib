@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SGP30
+#
+DEF SGP30 U 0 40 N Y 1 L N
+F0 "U" -300 320 50 H V L BNN
+F1 "SGP30" -300 -390 50 H V L BNN
+F2 "SGP30" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "SGP30" 0 0 50 H I L BNN "VALUE"
+F5 "IC-14776" 0 0 50 H I L BNN "PROD_ID"
+DRAW
+S -300 -300 300 300 0 0 10 f
+X VDD 1 -400 200 100 R 40 40 0 0 B 
+X VDDH 5 -400 100 100 R 40 40 0 0 B 
+X VSS 2 -400 -100 100 R 40 40 0 0 B 
+X SDA 3 400 100 100 L 40 40 0 0 B 
+X SCL 6 400 -100 100 L 40 40 0 0 B 
+X R 4 -400 0 100 R 40 40 0 0 B 
+X DIEPAD DIEPAD -400 -200 100 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
