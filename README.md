@@ -2,6 +2,8 @@ DISCLAIMER: The authors of this project are not responsible for how the files ar
 
 CREDIT: This work is directly derivative of the work by [AirGradient](https://www.airgradient.com/)
 
+BUGS: Molex picoblade connector to the "pms5003" is reversed. Cable thus need to be re-crimped, or need to reverse order between sensor and connection.
+
 ### ZAir
 This work is directly compatible with the [AirGradient ONE](https://www.airgradient.com/indoor/),
 it was created in frustration of the size over the monitor,
