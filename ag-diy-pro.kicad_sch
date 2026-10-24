@@ -9362,7 +9362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AG-PRO-Library:918-418K2022Y40000"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Molex_105450-0101"
 			(at 51.435 57.785 0)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9672,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ZAir:S12"
 			(at 111.76 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -13236,7 +13236,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 186.69 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -14822,7 +14822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "503566-1302:5035661302"
 			(at 349.25 58.42 0)
 			(hide yes)
 			(show_name no)
